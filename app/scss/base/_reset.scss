@@ -15,7 +15,8 @@ html {
 body {
   width: 90%;
   margin-inline: auto;
-  height: 100vh;
+  margin-block: 4rem;
+  height: calc(100vh - 8rem);
   display: grid;
   place-content: center;
   background-color: var(--Black);
