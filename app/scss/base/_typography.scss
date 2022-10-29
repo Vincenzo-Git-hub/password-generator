@@ -1,0 +1,14 @@
+@use "../util/" as *;
+
+body {
+  font-family: var(--ff);
+  font-size: var(--fs);
+}
+
+.card {
+  color: var(--White);
+}
+
+.green {
+  color: var(--Green);
+}
